@@ -1,0 +1,13 @@
+h1 {color:rgba(23, 159, 148, 0.48); font-style: italic; font-size:40px}
+.first-image {width:400px; height:500px}
+.second-image {width:500px; height:500px}
+h2 {font-style: arial; font-size: 20px}
+.songs {font-style: arial; font-size: 20px}
+.song {font-style: arial; font-size: 20px}
+.comments {font-style: arial; font-size: 20px}
+.food {font-style: arial; font-size: 20px}
+.ending {font-style: arial; font-size: 20px}
+.reference {font-size: 15px}
+h5 {font-size: 15px}
+h6 {font-size: 15px}
+body {background-color: bisque;}
